@@ -1,10 +1,10 @@
 General Information:
 
-In this project I will investigate the historical evolution of the use of English loanwords,
+This project investigates the historical evolution of the use of English loanwords,
 also known as anglicisms, in the Dutch language. With this study I am aiming to trace the trajectory of the use of anglicisms,
 and discern patterns in the development of this linguistic phenomenon. 
 By studying literature and employing n-gram analysis, I am seeking to get a view of the linguistic patterns of the use of anglicisms.
-I am hoping to gain a broader understanding of language evolution, in particular the evolution of the Dutch language.
+With this research I will gain a broader understanding of language evolution, in particular the evolution of the Dutch language.
 
 
 Background Information:
