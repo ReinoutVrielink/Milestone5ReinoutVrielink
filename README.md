@@ -7,19 +7,6 @@ By studying literature and analysing television broadcasts from different time-p
 With this research I will gain a broader understanding of language evolution, in particular the evolution of the Dutch language.
 
 
-Background Information:
-Van der Sijs, N. (2012). Engelse leenwoorden revisited. Hoeveel wordt het Nederlands gemixt met Engels?. Onze Taal, 5, 132-134.
-https://pure.knaw.nl/ws/portalfiles/portal/459248/2012_leenwoordtelling_in_Onze_Taal.pdf
-
-van Heyningen, M. (2010). Een onderzoek naar het gebruik van Engelse werkwoorden in de Nederlandse taal.
-https://arno.uvt.nl/show.cgi?fid=106992
-
-Zenner, E. (2013). You say potato, I say patatje. Engelse leenwoorden in het Nederlands. Over Taal, 52(5), 118-120.
-https://lirias.kuleuven.be/retrieve/260543
-
-Lam, L. M. (2017). Het gebruik en de toename van Engels in het gesproken Nederlands (Master's thesis).
-https://studenttheses.uu.nl/handle/20.500.12932/26606
-
 Research Question and Hypotheses:
 How has the use of English loanwords in Dutch evolved over time?
 
